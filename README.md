@@ -1,4 +1,6 @@
 # pandas-challenge
+I am turning this assignment in late because I was in the hospital for a week when we were working on this assignment.
+To keep up with where the class was when I returned, I held off until I had the time to circle back and complete.
 jupyter notebook file name is module_four and is located in the PyCitySchools folder.
 The read in csv files are located in the Resources folder.
 
